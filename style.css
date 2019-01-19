@@ -1,8 +1,19 @@
+html, body {
+  height: 100%;
+}
+
 .body {
+  color: white;
+  height: 100%;
   padding: 10px;
+  background-color: #323942;
 }
 
 nav {
-  background-color: #6eaaee;
+  background-color: #406793;
   padding-left: 10px;
+}
+
+.collapsible-header {
+  background-color: #575b5f;
 }
