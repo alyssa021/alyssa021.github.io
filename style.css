@@ -17,3 +17,21 @@ nav {
 .collapsible-header {
   background-color: #575b5f;
 }
+
+.avatar {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	background-image: url("https://avatars1.githubusercontent.com/u/46166974?s=460&v=4");
+	background-size: cover;
+}
+
+.my-name {
+	color: white;
+	font-size: 25px;
+}
+
+.material-icons {
+	color: #eee;
+}
+
